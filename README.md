@@ -2,7 +2,7 @@
 Jewtube is jewish youtube clone, created by me. Im shutting it down in favor of other projects. So i decided to publish whole thing.
 
 ## Setting it up
-To setup jewtube you would need xampp, or any other shit.
+To setup jewtube you would need xampp, or any other shit. Oh and you need ffmpeg installed.
 1. Download source code
 2. Download the database
 3. Clean up database if you want <br>
